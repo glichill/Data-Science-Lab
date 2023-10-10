@@ -41,6 +41,11 @@ The utilized CNN model leverages the power of convolutional and pooling layers t
 ## Results
 The model achieves a validation accuracy score of 89.09% after 70 epochs of training, with specific results and confusions detailed in the evaluation results.
 
+### Confusion Matrix
+![Confusion Matrix](IMAGES/confusion_matrix.png)
+
+The confusion matrix provides insights into the model's classification capabilities for each command category, highlighting areas where prediction improvements are needed.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
