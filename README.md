@@ -3,6 +3,10 @@
 ## Project Overview
 This project aims to build an effective Speech Command Recognition system using Convolutional Neural Networks (CNNs) to detect specific vocal commands from an audio dataset. The system is developed with a focus on recognizing seven predefined vocal commands by training on Mel-Frequency Cepstral Coefficients (MFCC) features extracted from audio signals.
 
+## Disclaimer
+This project serves as my first venture into the domain of speech command recognition and employs a straightforward approach without utilizing sophisticated methods. As such, while it achieves respectable results, it does not reach State-Of-The-Art (SOTA) outcomes. The primary intent behind this project was to gain hands-on experience and explore the basic functionalities and methodologies related to Convolutional Neural Networks and audio signal processing. Any feedback or suggestions for improvement are highly welcomed!
+
+
 ## Dataset
 The dataset employed for this project consists of audio recordings in WAV format and is split into two parts:
 - A development set containing 9854 recordings
